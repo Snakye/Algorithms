@@ -8,10 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Remove="img.png" />
-      <Resource Include="img.png">
+      <None Update="graph.png">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </Resource>
+      </None>
     </ItemGroup>
 
 </Project>
